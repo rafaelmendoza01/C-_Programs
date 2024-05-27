@@ -1,4 +1,0 @@
-﻿  P5Work.cpp
-C:\Users\rafan\Desktop\SOTON\FirstYear\AdvancedProgramming\Programs\P5\P5Work\P5Work\P5Work.cpp(256,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-C:\Users\rafan\Desktop\SOTON\FirstYear\AdvancedProgramming\Programs\P5\P5Work\P5Work\P5Work.cpp(260,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-  P5Work.vcxproj -> C:\Users\rafan\Desktop\SOTON\FirstYear\AdvancedProgramming\Programs\P5\P5Work\x64\Debug\P5Work.exe
